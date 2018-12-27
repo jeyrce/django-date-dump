@@ -5,8 +5,8 @@
 
 - django2.x
 - rest_framework3.x
-- XlsxWriter>=1.1.2
-- xlwt>=1.3.0
+- XlsxWriter1.1.x
+- xlwt1.3.x
 
 ### 快速开始
 
