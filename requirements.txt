@@ -60,7 +60,7 @@ itypes==1.1.0
 jdcal==1.4
 Jinja2==2.10
 kombu==4.2.2
-lxml==4.2.5
+lxml==4.6.2
 Markdown==2.6.11
 MarkupSafe==1.0
 msgpack==0.5.6
